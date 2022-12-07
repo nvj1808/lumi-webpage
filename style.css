@@ -1,0 +1,24 @@
+
+
+
+.nav-link:hover {
+    border-bottom: 3px solid rgb(169, 67, 169);
+  }
+  body {
+    height: 1000px;
+  }
+  h6{
+    color: orchid;
+  }
+  .n1{
+width: 300px !important;
+  }
+
+
+  d-block w-100{
+    height: 200px !important;
+  }
+  btn btn-primary{
+    left: 200px;
+  }
+  
